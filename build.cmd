@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --onefile --console --icon "icon.ico" --name "mail.tm"  "source.py"
